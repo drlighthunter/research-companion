@@ -41,7 +41,8 @@ This plugin provides that colleague.
 ## Installation
 
 ```bash
-claude plugin install --url https://github.com/andrehuang/research-companion
+claude plugin marketplace add https://github.com/andrehuang/research-companion
+claude plugin install research-companion@andrehuang-research-companion
 ```
 
 ## Usage
