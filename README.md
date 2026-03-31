@@ -61,7 +61,7 @@ claude plugin install research-companion@andrehuang-research-companion
 
 ### Codex
 
-See [docs/codex-installation.md](/Users/haoyu/code/research-companion/docs/codex-installation.md) for the full Codex installation guide, including:
+See [docs/codex-installation.md](./docs/codex-installation.md) for the full Codex installation guide, including:
 
 - repo marketplace installation
 - personal local marketplace installation
